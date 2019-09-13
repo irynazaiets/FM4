@@ -1,0 +1,47 @@
+C:\Users\Pavlo\source\repos\Calc\Calc\bin\Debug\Calc.exe.config
+C:\Users\Pavlo\source\repos\Calc\Calc\bin\Debug\Calc.exe
+C:\Users\Pavlo\source\repos\Calc\Calc\bin\Debug\Calc.pdb
+C:\Users\Pavlo\source\repos\Calc\Calc\obj\Debug\Calc.csprojResolveAssemblyReference.cache
+C:\Users\Pavlo\source\repos\Calc\Calc\obj\Debug\Calc.Form1.resources
+C:\Users\Pavlo\source\repos\Calc\Calc\obj\Debug\Calc.Properties.Resources.resources
+C:\Users\Pavlo\source\repos\Calc\Calc\obj\Debug\Calc.csproj.GenerateResource.Cache
+C:\Users\Pavlo\source\repos\Calc\Calc\obj\Debug\Calc.csproj.CoreCompileInputs.cache
+C:\Users\Pavlo\source\repos\Calc\Calc\obj\Debug\Calc.exe
+C:\Users\Pavlo\source\repos\Calc\Calc\obj\Debug\Calc.pdb
+P:\Pavlo\Calc\Calc\bin\Debug\Calc.exe.config
+P:\Pavlo\Calc\Calc\obj\Debug\Calc.exe
+P:\Pavlo\Calc\Calc\obj\Debug\Calc.pdb
+P:\Pavlo\Calc\Calc\bin\Debug\Calc.exe
+P:\Pavlo\Calc\Calc\bin\Debug\Calc.pdb
+P:\Pavlo\Calc\Calc\obj\Debug\Calc.csprojResolveAssemblyReference.cache
+P:\Pavlo\Calc\Calc\obj\Debug\Calc.Form1.resources
+P:\Pavlo\Calc\Calc\obj\Debug\Calc.Properties.Resources.resources
+P:\Pavlo\Calc\Calc\obj\Debug\Calc.csproj.GenerateResource.Cache
+P:\Pavlo\Візуальне\Calc\Calc\bin\Debug\Calc.exe.config
+P:\Pavlo\Візуальне\Calc\Calc\obj\Debug\Calc.exe
+P:\Pavlo\Візуальне\Calc\Calc\obj\Debug\Calc.pdb
+P:\Pavlo\Візуальне\Calc\Calc\bin\Debug\Calc.exe
+P:\Pavlo\Візуальне\Calc\Calc\bin\Debug\Calc.pdb
+P:\Pavlo\Візуальне\Calc\Calc\obj\Debug\Calc.csprojResolveAssemblyReference.cache
+P:\Pavlo\Візуальне\Calc\Calc\obj\Debug\Calc.Form1.resources
+P:\Pavlo\Візуальне\Calc\Calc\obj\Debug\Calc.Properties.Resources.resources
+P:\Pavlo\Візуальне\Calc\Calc\obj\Debug\Calc.csproj.GenerateResource.Cache
+D:\3 r\Calc\Calc\bin\Debug\Calc.exe.config
+D:\3 r\Calc\Calc\obj\Debug\Calc.exe
+D:\3 r\Calc\Calc\obj\Debug\Calc.pdb
+D:\3 r\Calc\Calc\bin\Debug\Calc.exe
+D:\3 r\Calc\Calc\bin\Debug\Calc.pdb
+D:\3 r\Calc\Calc\obj\Debug\Calc.csprojResolveAssemblyReference.cache
+D:\3 r\Calc\Calc\obj\Debug\Calc.Form1.resources
+D:\3 r\Calc\Calc\obj\Debug\Calc.Properties.Resources.resources
+D:\3 r\Calc\Calc\obj\Debug\Calc.csproj.GenerateResource.Cache
+D:\Calc\Calc\bin\Debug\Calc.exe.config
+D:\Calc\Calc\bin\Debug\Calc.exe
+D:\Calc\Calc\bin\Debug\Calc.pdb
+D:\Calc\Calc\obj\Debug\Calc.csprojAssemblyReference.cache
+D:\Calc\Calc\obj\Debug\Calc.Form1.resources
+D:\Calc\Calc\obj\Debug\Calc.Properties.Resources.resources
+D:\Calc\Calc\obj\Debug\Calc.csproj.GenerateResource.cache
+D:\Calc\Calc\obj\Debug\Calc.csproj.CoreCompileInputs.cache
+D:\Calc\Calc\obj\Debug\Calc.exe
+D:\Calc\Calc\obj\Debug\Calc.pdb
