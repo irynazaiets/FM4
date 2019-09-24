@@ -1,0 +1,10 @@
+C:\Users\izaie\source\repos\FM1\bin\Debug\FM1.exe.config
+C:\Users\izaie\source\repos\FM1\bin\Debug\FM1.exe
+C:\Users\izaie\source\repos\FM1\bin\Debug\FM1.pdb
+C:\Users\izaie\source\repos\FM1\obj\Debug\FM1.csprojAssemblyReference.cache
+C:\Users\izaie\source\repos\FM1\obj\Debug\FM1.Form1.resources
+C:\Users\izaie\source\repos\FM1\obj\Debug\FM1.Properties.Resources.resources
+C:\Users\izaie\source\repos\FM1\obj\Debug\FM1.csproj.GenerateResource.cache
+C:\Users\izaie\source\repos\FM1\obj\Debug\FM1.csproj.CoreCompileInputs.cache
+C:\Users\izaie\source\repos\FM1\obj\Debug\FM1.exe
+C:\Users\izaie\source\repos\FM1\obj\Debug\FM1.pdb
